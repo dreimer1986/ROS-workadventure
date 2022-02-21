@@ -242,7 +242,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"A perfect virtual office to get started with WorkAdventure! Updated and ReactOSified by Daniel Reimer"
         }, 
         {
          "name":"mapImage",
@@ -252,12 +252,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"https:\/\/dreimer1986.github.io\/ROS-workadventure\/map.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"ReactOS Office"
         }, 
         {
          "name":"script",
