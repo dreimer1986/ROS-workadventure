@@ -94,7 +94,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.reactos.org\/"
+                 "value":"https:\/\/reactos.org\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
