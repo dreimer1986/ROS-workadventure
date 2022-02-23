@@ -104,7 +104,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"^^ OUR WEBSITE ^^"
+                 "value":"^^ OUR WEBSITE! OPENS NEW TAB! ^^"
                 }],
          "type":"tilelayer",
          "visible":true,
