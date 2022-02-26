@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/basement.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/reactos-project\/reactos-project\/reactos-office---basement"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/upstairs.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/reactos-project\/reactos-project\/reactos-office---upstairs"
                 }],
          "type":"tilelayer",
          "visible":true,

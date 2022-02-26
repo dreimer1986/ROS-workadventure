@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/reactos-project\/reactos-project\/reactos-project"
                 }],
          "type":"tilelayer",
          "visible":true,
