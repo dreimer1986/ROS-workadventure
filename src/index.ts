@@ -16,7 +16,7 @@ WA.room.onEnterLayer('clockZone').subscribe(() => {
 WA.room.onLeaveLayer('clockZone').subscribe(closePopUp)
 
 WA.room.onEnterLayer('GvGZone').subscribe(() => {
-    currentPopup = WA.ui.openPopup("GvGPopup","R.I.P. Gé van Geldorp\nWe miss you!",[]);
+    currentPopup = WA.ui.openPopup("GvGPopup","R.I.P.\nGé van Geldorp\nWe miss you...",[]);
 })
 
 WA.room.onLeaveLayer('GvGZone').subscribe(closePopUp)
