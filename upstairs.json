@@ -52,7 +52,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Yandere Simulator running in ReactOS"
+                 "value":"-Spacebar- Yandere Simulator running in ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -80,7 +80,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Tsukihime and Final Fantasy VIII running in ReactOS"
+                 "value":"-Spacebar- Tsukihime and Final Fantasy VIII running in ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"MCEdit on ReactOS"
+                 "value":"-Spacebar- MCEdit on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -136,7 +136,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEGO Digital Designer on ReactOS"
+                 "value":"-Spacebar- LEGO Digital Designer on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -164,7 +164,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"SuperTuxKart 1.2 running in ReactOS"
+                 "value":"-Spacebar- SuperTuxKart 1.2 running in ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -192,7 +192,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"GameMaker 8.1 Lite in ReactOS"
+                 "value":"-Spacebar- GameMaker 8.1 Lite in ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -220,7 +220,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"BeamNG.drive with 3D hw acceleration on ReactOS"
+                 "value":"-Spacebar- BeamNG.drive with 3D hw acceleration on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -248,7 +248,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Microsoft Sam and ROS Readme on ReactOS"
+                 "value":"-Spacebar- Microsoft Sam and ROS Readme on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -276,7 +276,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Yan's World Demo running in ReactOS"
+                 "value":"-Spacebar- Yan's World Demo running in ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -304,7 +304,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"PCSX2 1.2.1 running in ReactOS"
+                 "value":"-Spacebar- PCSX2 1.2.1 running in ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -332,7 +332,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"PPSSPP 1.9.3 running in ReactOS"
+                 "value":"-Spacebar- PPSSPP 1.9.3 running in ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -360,7 +360,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Demul 0.56 running in ReactOS"
+                 "value":"-Spacebar- Demul 0.56 running in ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,

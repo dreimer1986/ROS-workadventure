@@ -124,7 +124,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"FOSDEM Video - xHCI boot"
+                 "value":"-Spacebar- FOSDEM Video - xHCI boot"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -152,7 +152,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"ReactOS running on Xbox Classic"
+                 "value":"-Spacebar- ReactOS running on Xbox Classic"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -180,7 +180,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Portal running on ReactOS"
+                 "value":"-Spacebar- Portal running on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -208,7 +208,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"x64 ReactOS runs Blender"
+                 "value":"-Spacebar- x64 ReactOS runs Blender"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -236,7 +236,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Playing modern Minecraft in ReactOS"
+                 "value":"-Spacebar- Playing modern Minecraft in ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -264,7 +264,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Halo Combat Evolved on ReactOS"
+                 "value":"-Spacebar- Halo Combat Evolved on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -292,7 +292,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Unreal Tournament 2003 on ReactOS"
+                 "value":"-Spacebar- Unreal Tournament 2003 on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -320,7 +320,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Doom 3 on ReactOS"
+                 "value":"-Spacebar- Doom 3 on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -348,7 +348,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"coLinux 0.6.4 on ReactOS"
+                 "value":"-Spacebar- coLinux 0.6.4 on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -376,7 +376,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"The Ultimate USB Booting Guide"
+                 "value":"-Spacebar- The Ultimate USB Booting Guide"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -404,7 +404,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Touhou 7 on ReactOS"
+                 "value":"-Spacebar- Touhou 7 on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -432,7 +432,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Warcraft I in ReactOS"
+                 "value":"-Spacebar- Warcraft I in ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -460,7 +460,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Hardware 3D acceleration using some tricks"
+                 "value":"-Spacebar- Hardware 3D acceleration using some tricks"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -488,7 +488,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Endless Sky on ReactOS"
+                 "value":"-Spacebar- Endless Sky on ReactOS"
                 }],
          "type":"tilelayer",
          "visible":true,
