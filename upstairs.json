@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.live.linux-tage.de\/_\/global\/raw.githubusercontent.com\/dreimer1986\/ROS-workadventure\/master\/map.json#from_upstairs"
+                 "value":"map.json#from_upstairs"
                 }],
          "type":"tilelayer",
          "visible":true,

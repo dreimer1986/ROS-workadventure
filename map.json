@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.live.linux-tage.de\/_\/global\/raw.githubusercontent.com\/dreimer1986\/ROS-workadventure\/master\/basement.json"
+                 "value":"basement.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.live.linux-tage.de\/_\/global\/raw.githubusercontent.com\/dreimer1986\/ROS-workadventure\/master\/upstairs.json"
+                 "value":"upstairs.json"
                 }],
          "type":"tilelayer",
          "visible":true,
