@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/reactos-project\/reactos-project\/reactos-project#from_upstairs"
+                 "value":"https:\/\/play.live.linux-tage.de\/_\/global\/raw.githubusercontent.com\/dreimer1986\/ROS-workadventure\/master\/map.json#from_upstairs"
                 }],
          "type":"tilelayer",
          "visible":true,
