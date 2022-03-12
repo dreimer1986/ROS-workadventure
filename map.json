@@ -528,7 +528,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"^^ SPONSOR ALERT ^^"
+                 "value":"-Spacebar- ^^ SPONSOR ALERT ^^"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -556,7 +556,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"^^ OUR WEBSITE! OPENS NEW TAB! ^^"
+                 "value":"-Spacebar- ^^ OUR WEBSITE! OPENS NEW TAB! ^^"
                 }],
          "type":"tilelayer",
          "visible":true,
