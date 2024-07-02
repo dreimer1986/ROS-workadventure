@@ -16,7 +16,7 @@ WA.room.onEnterLayer('clockZone').subscribe(() => {
 WA.room.onLeaveLayer('clockZone').subscribe(closePopUp)
 
 WA.room.onEnterLayer('RIPZone').subscribe(() => {
-    currentPopup = WA.ui.openPopup("RIPopup","R.I.P.\nGé van Geldorp (2011)\nStefan Ginsberg (2022)\nJames Tabor (2023)\nWe miss you, guys...",[]);
+    currentPopup = WA.ui.openPopup("RIPPopup","R.I.P.\nGé van Geldorp (2011)\nStefan Ginsberg (2022)\nJames Tabor (2023)\nWe miss you, guys...",[]);
 })
 
 WA.room.onLeaveLayer('RIPZone').subscribe(closePopUp)
