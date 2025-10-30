@@ -42,7 +42,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"reactos-office-ground-floor#from_upstairs"
+                 "value":"\/_\/global\/raw.githubusercontent.com\/dreimer1986\/ROS-workadventure\/master\/map.json#from_upstairs"
                 }],
          "type":"tilelayer",
          "visible":true,
