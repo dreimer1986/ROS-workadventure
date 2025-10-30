@@ -49,7 +49,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":".\/CLTMap\/maps\/ZHSG\/EG.json#start_live_ROS"
                 }],
