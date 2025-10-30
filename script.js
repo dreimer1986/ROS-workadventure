@@ -1,0 +1,22 @@
+let currentPopup: any = undefined;
+
+WA.room.onEnterLayer('clockZone').subscribe(() => {
+    const today = new Date();
+    const time = today.getHours() + ":" + today.getMinutes();
+    currentPopup = WA.ui.openPopup("clockPopup","It's " + time,[]);
+})
+
+WA.room.onLeaveLayer('clockZone').subscribe(closePopUp)
+
+WA.room.onEnterLayer('RIPZone').subscribe(() => {
+    currentPopup = WA.ui.openPopup("RIPPopup","R.I.P.\nGé van Geldorp\n✝ 2011\nStefan Ginsberg\n✝ 2022\nJames Tabor\n✝ 2023\nWe miss you, guys...",[]);
+})
+
+WA.room.onLeaveLayer('RIPZone').subscribe(closePopUp)
+
+function closePopUp(){
+    if (currentPopup !== undefined) {
+        currentPopup.close();
+        currentPopup = undefined;
+    }
+}
