@@ -51,7 +51,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"CLTMap\/maps\/ZHSG\/EG.json#start_live_ROS"
+                 "value":".\/CLTMap\/maps\/ZHSG\/EG.json#start_live_ROS"
                 }],
          "type":"tilelayer",
          "visible":true,

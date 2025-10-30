@@ -42,7 +42,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json#from_upstairs"
+                 "value":".\/map.json#from_upstairs"
                 }],
          "type":"tilelayer",
          "visible":true,
