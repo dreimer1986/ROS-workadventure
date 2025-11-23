@@ -18,7 +18,7 @@ WA.room.onEnterLayer('clockZone').subscribe(() => {
             // Close the popup when the "Close" button is pressed.
             popup.close();
         }
-    ]);
+    ]),
     })
 }
 
@@ -34,7 +34,7 @@ WA.room.onEnterLayer('RIPZone').subscribe(() => {
             // Close the popup when the "Close" button is pressed.
             popup.close();
         }
-    ]);
+    ]),
     })
 }
 
