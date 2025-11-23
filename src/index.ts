@@ -20,6 +20,7 @@ WA.room.onEnterLayer('clockZone').subscribe(() => {
         }
     ]);
     })
+}
 
 WA.room.onLeaveLayer('clockZone').subscribe(() => {
     clockPopup.close();
@@ -35,6 +36,7 @@ WA.room.onEnterLayer('RIPZone').subscribe(() => {
         }
     ]);
     })
+}
 
 WA.room.onLeaveLayer('RIPZone').subscribe(() => {
     RIPPopup.close();
